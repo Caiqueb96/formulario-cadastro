@@ -2,6 +2,8 @@
 
 Formulário de cadastro em etapas, feito com React e TypeScript. Projeto de estudo com foco em validação de formulários, experiência do usuário, acessibilidade e testes automatizados.
 
+**🔗 Acesse online: [formulario-cadastro-xi-self.vercel.app](https://formulario-cadastro-xi-self.vercel.app/)**
+
 > Por enquanto é só frontend: o envio é simulado. O backend será a próxima etapa.
 
 ## Telas
