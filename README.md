@@ -4,6 +4,12 @@ Formulário de cadastro em etapas, feito com React e TypeScript. Projeto de estu
 
 > Por enquanto é só frontend: o envio é simulado. O backend será a próxima etapa.
 
+## Telas
+
+| Dados pessoais | Acesso | Confirmação |
+|:---:|:---:|:---:|
+| ![Etapa 1: dados pessoais](docs/formulario_cadastro.png) | ![Etapa 2: senha com medidor de força](docs/formulario_acesso.png) | ![Etapa 3: resumo para confirmação](docs/formulario_confirmacao.png) |
+
 ## Funcionalidades
 
 - **Cadastro em 3 etapas** (dados pessoais, acesso e confirmação), com indicador de progresso e validação por etapa antes de avançar
